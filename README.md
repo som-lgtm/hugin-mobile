@@ -12,10 +12,10 @@ This project brings Hugin's image stitching capabilities to mobile platforms, en
 [![Gimbal](pic/2.png)](https://kuntu720.taobao.com)  <br>
 
 #### Source Images  
-![Source Images](pic/imgs.png)  <br>
+![Source Images](pic/imges.png)  <br>
 
 #### Stitching Result  
-![Stitching Result](pic/result.jpg)  <br>
+![Stitching Result](pic/reslut.jpg)  <br>
 
 ### Installation Steps  
 1. Clone the repository:  
