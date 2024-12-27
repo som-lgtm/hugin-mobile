@@ -37,8 +37,8 @@ multiblend (https://horman.net/multiblend/)
 素材采集采用鲲图手机全景云台对素材采集，然后把素材导入项目实现移动端完成全景图拼接
 [![云台](pic/1.png)](https://kuntu720.taobao.com)<br>
 [![云台](pic/2.png)](https://kuntu720.taobao.com)<br>
-[![素材](pic/imgs.png)]<br>
-[![拼接结果](pic/result.jpg)]<br>
+[![素材](pic/imges.png)]<br>
+[![拼接结果](pic/reslut.jpg)]<br>
 
 
 ### 安装步骤
