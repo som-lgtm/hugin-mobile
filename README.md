@@ -22,7 +22,7 @@ This project brings Hugin's image stitching capabilities to mobile platforms, en
    ```bash  
    git clone https://github.com/som-lgtm/hugin-mobile.git  
 
-References
+References<br>
 hugin (https://sourceforge.net/projects/hugin/)<br>
 multiblend (https://horman.net/multiblend/)
 
