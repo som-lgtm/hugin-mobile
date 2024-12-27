@@ -1,3 +1,32 @@
+# Project Name  
+Image Stitching on Mobile with Hugin  
+
+## Introduction  
+This project brings Hugin's image stitching capabilities to mobile platforms, enabling panorama creation directly on Android devices. By porting the Hugin project to Android, users can stitch multiple images into a panoramic image on their phones.  
+
+## Features  
+- **Image Capture**: Use the Kuntu mobile panoramic gimbal to capture aligned images as stitching input.  
+- **Seamless Stitching**: Import captured images into the app and create panoramic images directly on mobile devices.  
+
+[![Gimbal](pic/1.png)](https://kuntu720.taobao.com)  <br>
+[![Gimbal](pic/2.png)](https://kuntu720.taobao.com)  <br>
+
+#### Source Images  
+![Source Images](pic/imgs.png)  <br>
+
+#### Stitching Result  
+![Stitching Result](pic/result.jpg)  <br>
+
+### Installation Steps  
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/som-lgtm/hugin-mobile.git  
+
+References
+hugin (https://sourceforge.net/projects/hugin/)<br>
+multiblend (https://horman.net/multiblend/)
+
+
 # 项目名称
 利用hugin实现移动端图片拼接
 
@@ -6,10 +35,10 @@
 
 ## 功能特点
 素材采集采用鲲图手机全景云台对素材采集，然后把素材导入项目实现移动端完成全景图拼接
-[![云台](pic/1.png)](https://kuntu720.taobao.com)
-[![云台](pic/2.png)](https://kuntu720.taobao.com)
-[![素材](pic/imgs.png)]
-[![拼接结果](pic/result.jpg)]
+[![云台](pic/1.png)](https://kuntu720.taobao.com)<br>
+[![云台](pic/2.png)](https://kuntu720.taobao.com)<br>
+[![素材](pic/imgs.png)]<br>
+[![拼接结果](pic/result.jpg)]<br>
 
 
 ### 安装步骤
@@ -18,5 +47,5 @@
    git clone https://github.com/som-lgtm/hugin-mobile.git
 
 ## 引用
-hugin (https://sourceforge.net/projects/hugin/)
+hugin (https://sourceforge.net/projects/hugin/)<br>
 multiblend (https://horman.net/multiblend/)
